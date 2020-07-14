@@ -8,6 +8,7 @@ What will the application do?
 ● Prompt the user to ask about a particular student
 ● Give proper responses according to user-submitted information
 ● Ask if user would like to learn about another student
+
 Build Specifications/Grading Points:
 • Create 3 arrays and fill them with student information—one with name, one with favorite food, one with previous title (2 points total)
 • Ask the user which student they want to know about and take input (1 point)
@@ -18,7 +19,9 @@ Build Specifications/Grading Points:
 • Prompt again if they entered a category that doesn’t exist (1 point)
 • Display the relevant information (1 point)
 • As if the user would like to learn about another student, take input, and loop back if they do (1 point)
+
 Hints: ● Make it easy for the user – tell them what information is available
+
 Extended Challenges:
 • Ask if the user would like to learn more about the current student, find out about another, or quit. Provide the other piece of information (candy or title) if they want to learn more.
 • Provide an option where the user can see a list of all students.
